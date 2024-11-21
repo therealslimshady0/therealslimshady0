@@ -1,38 +1,42 @@
 # Welcome to My GitHub! 👨‍💻👾
 
 ```bash
-$ Whoami
-> [Your Name]
+$ whoami
+> therealslimshady
 
 $ cat about_me.txt
-> I'm a passionate developer with a deep interest in [mention your main interests here like web development, cybersecurity, AI, etc.].  
-> I thrive on solving problems, building projects, and learning new technologies.
+> I'm a passionate developer with a deep interest in cybersecurity.  
+> I thrive on solving problems, creating projects, and exploring new technologies.  
+> My motto: "Defonotahacker"
 
 $ skills
-> [Your main skills]
-> - Languages: Python, JavaScript, C++, [other languages]
-> - Frameworks: React, Node.js, Django, Flask, [other frameworks]
-> - Tools: Git, Docker, Kubernetes, [other tools]
-> - Databases: MySQL, PostgreSQL, MongoDB, [other databases]
-> - Other: [mention any additional skills like machine learning, data science, etc.]
+> 🚀 **Languages:** Python, JavaScript, C++, Java
+> 🔧 **Frameworks:** React, Node.js, Django, Flask, PHP 
+> 🛠 **Tools:** Git, Docker, Kubernetes 
+> 🗄️ **Databases:** MySQL, PostgreSQL, MongoDB
+> 🤖 **Other:** Ethical Hacking, Red Teaming
 
-$ projects
-> [Here you can list some notable projects]
-> - **[Project 1 Name]**: A brief description of what the project does and the tech stack you used.
-> - **[Project 2 Name]**: A brief description of what the project does and the tech stack you used.
-> - **[Project 3 Name]**: A brief description of what the project does and the tech stack you used.
+$ ls projects/
+> - **[Project 1 Name]**:  
+>   [🔗 GitHub Link](https://github.com/your-username/project1)  
+>   Description: A [brief project overview]. Built with [tech stack].  
+> 
+> - **[Project 2 Name]**:  
+>   [🔗 GitHub Link](https://github.com/your-username/project2)  
+>   Description: A [brief project overview]. Built with [tech stack].  
+>
+> - **[Project 3 Name]**:  
+>   [🔗 GitHub Link](https://github.com/your-username/project3)  
+>   Description: A [brief project overview]. Built with [tech stack].
 
-$ contact
-> 📧 **Email**: [your email]  
-> 🌐 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/[your-linkedin-username]) | **Twitter**: [Twitter](https://twitter.com/[your-twitter-handle])
+$ cat contact_info.txt
+> 📧 Email: ranzyedirisinghe@gmail.com   
+> 🐦 Twitter: https://x.com/dare4lslimshady  
 
-$ resume
-> You can view my resume here: [link to your resume or personal website]
-
-$ github_stats
-> Here's some of my recent activity on GitHub:
-> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=radical)
+$ github_stats --user therealslimshady0
+> Fetching stats...  
+> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)  
+> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 $ exit
-> Bye for now, come back soon!
+> Bye for now, but remember: the code never sleeps. 🔥
